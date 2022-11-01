@@ -1,0 +1,15 @@
+{
+  "name": "lit_element_practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "es-dev-server --app-index index.html --node-resolve --watch --open"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "dependencies": {
+    "lit-element": "^3.2.2"
+  }
+}
